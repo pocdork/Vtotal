@@ -13,5 +13,6 @@ x-apikey: Get it from https://www.virustotal.com/
 4. bash vtotal.sh <<< tesla.com
 5. cat virustotal.txt
 
-
-![Screenshot] (vtotal.png)
+<p align="center">
+  <img src="https://github.com/kernelrider/Vtotal/blob/master/vtotal.png" width="450" title="Screenshot">
+</p>
