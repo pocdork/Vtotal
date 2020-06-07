@@ -11,3 +11,7 @@ x-apikey: Get it from https://www.virustotal.com/
 2. cd Vtotal
 3. Set your API key in vtotal.sh file
 4. bash vtotal.sh <<< tesla.com
+5. cat virustotal.txt
+
+
+![Screenshot] (vtotal.png)
